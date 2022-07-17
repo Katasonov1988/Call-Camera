@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="buttonElevation">2dp</dimen>
+    <dimen name="layoutMarginBottom">50dp</dimen>
+    <dimen name="layoutHeight">110dp</dimen>
+    <dimen name="layoutWeight">110dp</dimen>
+</resources>
